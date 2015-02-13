@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="150"
+   height="150"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="JJClogo(2).svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.5"
+     inkscape:cx="89.861287"
+     inkscape:cy="75"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-paths="true"
+     inkscape:window-width="1902"
+     inkscape:window-height="1012"
+     inkscape:window-x="1"
+     inkscape:window-y="1064"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-902.36218)">
+    <path
+       style="fill:#367ca6;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       d="m 121.25,906.59375 c -32.997208,0.53981 -66.093234,-0.45269 -99.0625,0.5 -12.3947686,2.35645 -20.6752383,15.57164 -18.5209937,27.81247 0.3909974,32.26871 -0.8996851,64.71463 0.6772437,96.87498 2.8974405,12.3069 16.473786,19.3587 28.468723,17.2709 31.935999,-0.3865 64.048398,0.8936 95.875027,-0.6771 12.28544,-2.8774 19.32884,-16.4104 17.30208,-28.4687 -0.38753,-31.90436 0.85103,-63.98531 -0.64583,-95.7813 -2.56459,-10.5154 -13.27003,-18.17655 -24.09375,-17.53125 z"
+       id="rect3756"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="182.85715"
+       y="423.79074"
+       id="text2985"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="182.85715"
+         y="423.79074" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:91.81473540999999700px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="31.689129"
+       y="1180.4425"
+       id="text3093"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1347334,0.88126427)"><tspan
+         sodipodi:role="line"
+         id="tspan3095"
+         x="31.689129"
+         y="1180.4425"
+         style="font-size:183.62947083000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:-30.42342757999999800px;writing-mode:lr-tb;font-family:Boopee;-inkscape-font-specification:Boopee;fill:#ffffff;fill-opacity:1"
+         dx="-16.559471 10.964622"
+         rotate="0 0 0"
+         dy="-16.891108 0">JC</tspan></text>
+  </g>
+</svg>
